@@ -14,10 +14,7 @@ export default function App() {
   return (
     <div className="min-h-screen bg-slate-50 p-6 dark:bg-slate-950">
       <div className="mx-auto max-w-7xl space-y-8">
-        <h1 className="text-2xl font-bold text-slate-900 dark:text-white">
-          Analytics Dashboard
-        </h1>
-
+    
         <div className="grid grid-cols-1 gap-8 lg:grid-cols-2">
           <div className="space-y-3">
             <h2 className="text-lg font-bold text-slate-800 dark:text-white">
